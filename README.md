@@ -7,11 +7,23 @@ _covert your fav music youtube video into mp3 by using YTcovert Tool 🔥🤩_
 # Installation ❔
 ```bash
 pkg update && pkg upgrade
+```
+```bash
 pkg install github -y
+```
+```bash
 pkg install luarocks -y
+```
+```bash
 luarocks install lua
+```
+```bash
 git clone https://github.com/KCMTEAM/YTcovert
+```
+```bash
 cd YTcovert
+```
+```bash
 lua covert.lua
 ```
 ## direct
